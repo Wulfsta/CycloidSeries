@@ -1,7 +1,7 @@
 # Cycloid Series
 
 This is a SageMath script that graphs a cycloid using a Fourier Series representation:
-![Alt text](Cycloid.svg?raw=true "Cycloid") 
+<img src=Cycloid.svg?raw=true>
 
 ## Raw:
 
