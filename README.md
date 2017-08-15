@@ -2,7 +2,7 @@
 
 This is a SageMath script that graphs a cycloid using a Fourier Series representation:
 
-<a href="Cycloid.svg"><img src="Cycloid.svg" width="100%"></a>
+<a href="Cycloid.svg"><img src="Cycloid.svg" width="100%" height="144"></a>
 
 ## Raw:
 
